@@ -1,19 +1,27 @@
-Hey there! I'm Siva Sri Harsha Suthapalli👋
+Siva Sri Harsha Suthapalli 👋
 
-🎯 About Me 
+🎯 About Me
 
 👨‍💻 Passionate Software Developer
+
 📊 Machine Learning & AI Enthusiast
+
 🌐 Building for the Web
-⚛️ Next.js ⚛️ React, Node.js. 
+
+⚛️ Next.js, React, Node.js
+
 🤖 Automate Everything!
 
 💬 Ask me about ...
 
 Frontend Web Development 💻
+
 Python, JavaScript and Java ☕
+
 ML Models and Algorithms 📈
+
 Deploying Apps on Cloud ☁️
+
 IoT and Edge Computing 📡
 
 📫 How to reach me
