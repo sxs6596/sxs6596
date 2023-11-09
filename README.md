@@ -2,7 +2,7 @@ Siva Sri Harsha Suthapalli 👋
 
 🎯 About Me
 
-👨‍💻 Passionate Software Developer
+👨‍💻 Passionate Software Engineer
 
 📊 Machine Learning & AI Enthusiast
 
