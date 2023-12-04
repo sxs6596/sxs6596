@@ -14,7 +14,7 @@
 
 ## 💬 Ask me about ...
 
-- Frontend Web Development 💻
+- Full Stack Web Development 💻
 
 - Python, JavaScript and Java ☕
 
