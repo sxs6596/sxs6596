@@ -2,34 +2,34 @@
 
 ## 🎯 About Me
 
-👨‍💻 Passionate Software Engineer
+- 👨‍💻 Passionate Software Engineer
 
-📊 Machine Learning & AI Enthusiast
+- 📊 Machine Learning & AI Enthusiast
 
-🌐 Building for the Web
+- 🌐 Building for the Web
 
-⚛️ Next.js, React, Node.js
+- ⚛️ Next.js, React, Node.js
 
-🤖 Automate Everything!
+- 🤖 Automate Everything!
 
 ## 💬 Ask me about ...
 
-Frontend Web Development 💻
+- Frontend Web Development 💻
 
-Python, JavaScript and Java ☕
+- Python, JavaScript and Java ☕
 
-ML Models and Algorithms 📈
+- ML Models and Algorithms 📈
 
-Deploying Apps on Cloud ☁️
+- Deploying Apps on Cloud ☁️
 
-IoT and Edge Computing 📡
+- IoT and Edge Computing 📡
 
 ## 📫 How to reach me
 
-LinkedIn: https://www.linkedin.com/in/sivasriharsha
+- LinkedIn: https://www.linkedin.com/in/sivasriharsha
 
-GitHub: https://github.com/sxs6596
+- GitHub: https://github.com/sxs6596
 
-Email: sxs6596@mavs.uta.edu; sivasriharsha.sde@gmail.com 
+- Email: sxs6596@mavs.uta.edu; sivasriharsha.sde@gmail.com 
 
-Phone: +1 682-374-5477
+- Phone: +1 682-374-5477
