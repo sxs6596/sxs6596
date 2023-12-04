@@ -1,4 +1,4 @@
-## Siva Sri Harsha Suthapalli 👋
+# Siva Sri Harsha Suthapalli 👋
 
 🎯 About Me
 
