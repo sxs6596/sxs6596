@@ -4,7 +4,7 @@
 
 - 👨‍💻 Passionate Software Engineer
 
-- 📊 Machine Learning & AI Enthusiast
+- 📊 Full Stack Development & AI Enthusiast
 
 - 🌐 Building for the Web
 
