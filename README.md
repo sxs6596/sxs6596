@@ -1,6 +1,6 @@
 # Siva Sri Harsha Suthapalli 👋
 
-🎯 About Me
+## 🎯 About Me
 
 👨‍💻 Passionate Software Engineer
 
@@ -12,7 +12,7 @@
 
 🤖 Automate Everything!
 
-💬 Ask me about ...
+## 💬 Ask me about ...
 
 Frontend Web Development 💻
 
@@ -24,12 +24,12 @@ Deploying Apps on Cloud ☁️
 
 IoT and Edge Computing 📡
 
-📫 How to reach me
+## 📫 How to reach me
 
 LinkedIn: https://www.linkedin.com/in/sivasriharsha
 
 GitHub: https://github.com/sxs6596
 
-Email: sxs6596@mavs.uta.edu
+Email: sxs6596@mavs.uta.edu; sivasriharsha.sde@gmail.com 
 
 Phone: +1 682-374-5477
