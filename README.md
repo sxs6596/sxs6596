@@ -2,13 +2,13 @@
 
 ## 🎯 About Me
 
-- 👨‍💻 Passionate Software Engineer
+- 👨‍💻 Passionate Software Engineer with 5+ years of experience
 
 - 📊 Full Stack Development & AI Enthusiast
 
 - 🌐 Building for the Web
 
-- ⚛️ Next.js, React, Node.js
+- ⚛️ Next.js, React, Node.js, Angular, SpringBoot, Docker, Kubernetes
 
 - 🤖 Automate Everything!
 
