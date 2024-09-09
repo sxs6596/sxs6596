@@ -2,7 +2,7 @@
 
 ## 🎯 About Me
 
-- 👨‍💻 Passionate Software Engineer with 5+ years of experience
+- 👨‍💻 Passionate Full Stack Developer with 5+ years of experience
 
 - 📊 Full Stack Development & AI Enthusiast
 
