@@ -30,6 +30,6 @@
 
 - GitHub: https://github.com/sxs6596
 
-- Email: sxs6596@mavs.uta.edu; sivasriharsha6596@gmail.com
+- Email: sxs6596@mavs.uta.edu;
 
 - Phone: +1 682-374-5477
